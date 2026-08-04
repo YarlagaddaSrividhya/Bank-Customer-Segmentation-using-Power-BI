@@ -2,6 +2,7 @@
 
 This Power BI project focuses on customer segmentation and profitability analysis for a banking dataset. Using RFM (Recency, Frequency, Monetary) analysis, customer demographics, and transaction behavior, the dashboard provides interactive insights into:
 
+
 🔑 Key Features
 Customer Demographics: Analyze customer distribution by age, gender, and location.
 
@@ -13,6 +14,8 @@ Profitability & Risk Indicators: Evaluate customer credit scores, account balanc
 
 Key KPIs: Total revenue, average customer age, average credit score, customer distribution by risk level, and more.
 
+
+
 🛠️ Techniques & Tools
 Power BI Desktop for dashboard creation and visualization
 
@@ -21,6 +24,8 @@ DAX (Data Analysis Expressions) for calculated columns & measures (RFM scoring, 
 Power Query for data cleaning & transformation (DOB to Age, handling invalid dates, text-to-number conversions)
 
 Interactive Visuals: Cards, bar/column charts, scatter plots, pie/donut charts, heat maps, slicers, and matrix tables
+
+
 
 🎯 Business Impact
 This dashboard helps the bank:
