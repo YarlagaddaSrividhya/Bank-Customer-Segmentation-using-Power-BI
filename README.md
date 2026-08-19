@@ -1,4 +1,4 @@
-                                            📊 Bank Customer Segmentation – Power BI Project
+                                          📊 Bank Customer Segmentation – Power BI Project
 
 This Power BI project focuses on customer segmentation and profitability analysis for a banking dataset. Using RFM (Recency, Frequency, Monetary) analysis, customer demographics, and transaction behavior, the dashboard provides interactive insights into:
 
